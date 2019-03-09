@@ -524,6 +524,6 @@ rm -rf /bootstrap/
 rm -f /bin/sh
 rm -f /bin/rm
 
-echo "All jailbreak related files are removed! (At least all included in the iOS 11 electra JB)"
+echo "All jailbreak related files are removed!"
 echo "Rebooting... (Keep praying my friend!)"
 kill 1
