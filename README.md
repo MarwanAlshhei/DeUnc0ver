@@ -30,7 +30,7 @@ cd /
 sh DeUnc0ver.sh
 ```
 
-5. Wait until the device reboots and then reboot again.
+5. Wait until the device reboots and then Jailbreak (If you want) again.
 
 ## User reports
 [TAP HERE](https://github.com/MarwanAlshhei/DeUnc0ver/issues)
