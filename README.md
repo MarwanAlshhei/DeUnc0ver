@@ -1,9 +1,8 @@
 ## Electra 11.2 - 11.4.1 + Unc0ver 11.0 - 12.1.2 support
-Delectra can be used to fix/re-jailbreak your device as reported [here](https://github.com/KirovAir/delectra/issues/12).
-I'm not sure all leftover files are removed as of yet so I can not guarantee a clean state. I'll look into the current Electra release ASAP.
+Delectra (DeUnc0ver) can be used to fix/re-jailbreak your device.
 
 # delectra + Dec0ver = DeUnc0ver
-An uninstaller script For [Electra](https://github.com/coolstar/electra/) iOS 11.0 - 11.4.1 jailbreak
+An uninstaller script For [Electra](https://github.com/coolstar/electra/)
 Also for [Unc0ver](https://github.com/pwn20wndstuff/Undecimus/)
 
 Please read everything in this readme before you do anything!
@@ -34,7 +33,7 @@ sh DeUnc0ver.sh
 5. Wait until the device reboots and then reboot again.
 
 ## User reports
-Soon
+[TAP HERE](https://github.com/MarwanAlshhei/DeUnc0ver/issues)
 
 ## Help!
 
@@ -44,13 +43,5 @@ Just install RootlessJB then use ssh.
 
 You can install RootlessJB from [ignition](https://app.ignition.fun)
 Or use ipa then use Cydia impactor [RootlessJB ipa](https://github.com/tigisoftware/rootlessJB3/releases/download/3.2.8/rootlessJB3.2.8.ipa)
-## Troubleshooting
-#### My tweaks are not working on the betas anymore?
-This was an issue when you used an older version of this script. This is fixed now.
-1. SSH into your phone as __root__ and run:
-```
-mkdir /Library/Frameworks/
-```
-2. Reboot and re-jailbreak with a beta electra version and it should be fixed.
 
 #### Thanks to KirovAir!!
