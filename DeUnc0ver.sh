@@ -4,7 +4,7 @@ if [ "$EUID" -ne 0 ]; then
   exit
 fi
 
-echo “Jailbreak Remover by KirovAir for Electra 1.0.x - by HMD for Unc0ver“
+echo “Jailbreak Remover by KirovAir for Electra 1.0.x - by MarwanAlshehhi for Unc0ver“
 echo "This has ONLY been tested on a few devices and might kill your JB."
 echo "Assuming you have not installed any other jailbreak or modified the rootfs directly yourself, you should be on stock iOS once this is complete."
 read -p "Press enter to continue. Press Ctrl + C to exit"
