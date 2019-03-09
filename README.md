@@ -25,15 +25,25 @@ This is not recommended by Coolstar or Pwn20wnd.
 2. Put DeUnc0ver.sh on your phone. I'd recommend putting it in / (root) so it will be removed by itself
 3. Reboot your device and rejailbreak _without_ tweaks enabled. (This should make the process more stable)
 4. SSH into your phone as __root__ and run DeUnc0ver.sh from this repo:
+
 ```
 cd /
 sh DeUnc0ver.sh
 ```
+
 5. Wait until the device reboots and then reboot again.
 
 ## User reports
 Soon
 
+## Help!
+
+If you can't jailbreak using Unc0ver to using DeUnc0ver.sh file
+
+Just install RootlessJB then use ssh.
+
+You can install RootlessJB from [ignition](https://app.ignition.fun)
+Or use ipa then use Cydia impactor [RootlessJB ipa](https://github.com/tigisoftware/rootlessJB3/releases/download/3.2.8/rootlessJB3.2.8.ipa)
 ## Troubleshooting
 #### My tweaks are not working on the betas anymore?
 This was an issue when you used an older version of this script. This is fixed now.
